@@ -25,9 +25,6 @@ MATPLOTLIB :
 6. 3D scatter plot ride length per bike type and per member_casual
 7. Scatter plot of ride length per time of hour
 8. Multi-series Bar Plot of monthly rides by membership type
-9. 
-10. 
-11. 
 
 SEABORN: 
 1. Hour of usage bar chart
@@ -39,8 +36,6 @@ SEABORN:
 7. Area plot of bike type usage per month
 8. Jointplot ride duration and member ship type
 9. Pie chart of number of person who used it less than 1 minute (potential broken bikes) (0-2 min, 2-5 min, >5 min)
-10. 
-11. 
 
 OTHER LIBRARIES:
 1. Heatmap of starting zones by count (seaborn + folium)
